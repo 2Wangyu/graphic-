@@ -1,0 +1,3 @@
+D:/deskToop/Games101_Homework/Assignment5/Code/cmake-build-debug/CMakeFiles/RayTracing.dir
+D:/deskToop/Games101_Homework/Assignment5/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/deskToop/Games101_Homework/Assignment5/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

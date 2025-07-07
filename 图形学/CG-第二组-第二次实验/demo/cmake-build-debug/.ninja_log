@@ -1,0 +1,15 @@
+# ninja log v5
+148	1195	7729111121961612	CMakeFiles/CG_E2.dir/utility/stb_image.cpp.obj	bbf60f3c528a607f
+197	1207	7729111122115166	CMakeFiles/CG_E2.dir/utility/Camera.cpp.obj	e8483cd6227dfaa9
+97	1350	7729111123561338	CMakeFiles/CG_E2.dir/utility/Shader.cpp.obj	e46e22be3f334ee4
+48	1490	7729111124936498	CMakeFiles/CG_E2.dir/public/src/glad.c.obj	3134f86c3770bc69
+252	1676	7729111126807134	CMakeFiles/CG_E2.dir/CGEMesh.cpp.obj	31cca25bb7d1b4e8
+329	2214	7729111132181563	CMakeFiles/CG_E2.dir/Actor/Actor.cpp.obj	cd5ed6fb643a3779
+401	2254	7729111132575595	CMakeFiles/CG_E2.dir/Actor/Light.cpp.obj	958e5870e1204ea7
+619	2291	7729111132944180	CMakeFiles/CG_E2.dir/Actor/Mesh.cpp.obj	5c7cfe3f2d5281ae
+2	2386	7729111133905445	CMakeFiles/CG_E2.dir/main.cpp.obj	848cb08bcf496ec3
+777	2578	7729111135802099	CMakeFiles/CG_E2.dir/Actor/SkyBox.cpp.obj	96f997a75d47ba68
+865	2655	7729111136599763	CMakeFiles/CG_E2.dir/Actor/geometry/plane.cpp.obj	238f2725b4f9272
+695	2903	7729111139081237	CMakeFiles/CG_E2.dir/Actor/Model.cpp.obj	2e994e4976563c7a
+467	3462	7729111144685401	CMakeFiles/CG_E2.dir/utility/InputHandler.cpp.obj	f127c0d09e21d111
+537	3470	7729111144779385	CMakeFiles/CG_E2.dir/utility/Timer.cpp.obj	5e156ce69b4c0467

@@ -1,0 +1,12 @@
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/CMakeFiles/openglStudy.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/wrapper/CMakeFiles/wrapper.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/wrapper/CMakeFiles/edit_cache.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/wrapper/CMakeFiles/rebuild_cache.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/application/CMakeFiles/app.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/application/CMakeFiles/edit_cache.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/application/CMakeFiles/rebuild_cache.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/glframework/CMakeFiles/fw.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/glframework/CMakeFiles/edit_cache.dir
+D:/deskToop/大三下/图形学/hw1/2D/out/build/x64-Debug/glframework/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# Blender 4.4.2 MTL File: 'mhs.blend'
+# www.blender.org
+
+newmtl WP_A_0115_a_Mat.003
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd diffuse.PNG
+map_refl specular.PNG

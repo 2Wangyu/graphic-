@@ -1,0 +1,26 @@
+# Blender 4.4.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Bronze_Baked
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Amulet_basecolor.png
+map_Ns Amulet_roughness.png
+map_refl Amulet_metal.png
+map_Bump Amulet_normal.png
+
+newmtl Jade_Baked
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Amulet_basecolor.png
+map_Ns Amulet_roughness.png
+map_refl Amulet_metal.png
+map_Bump Amulet_normal.png
